@@ -46,5 +46,5 @@ Wait for the transaction to be mined and the contract to be deployed.
 
 Access the deployed contract's address and transaction hash in the browser console.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
