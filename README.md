@@ -16,7 +16,7 @@ Before using this project, make sure you have the following:
 
 1. Clone the repository:
 2. Install all dependencies;
-3. Open the client folder and run ```console npm start ```
+3. Open the client folder and run ``` npm start ```
 4. Connect your Metamask wallet to the Ethereum network of your choice.
 5. Enter the desired token name and symbol in the provided input fields.
 6. Click the "Deploy" button to create your ERC20 token.
