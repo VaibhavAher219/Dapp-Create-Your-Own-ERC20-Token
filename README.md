@@ -15,36 +15,13 @@ Before using this project, make sure you have the following:
 ## Installation
 
 1. Clone the repository:
+2. Install all dependencies;
+3. Open the client folder and run ```console npm start ```
+4. Connect your Metamask wallet to the Ethereum network of your choice.
+5. Enter the desired token name and symbol in the provided input fields.
+6. Click the "Deploy" button to create your ERC20 token.
+7. Wait for the transaction to be mined and the contract to be deployed.
 
-   ```shell
-   git clone https://github.com/your-username/your-repo.git
-Change into the project directory:
-
-shell
-Copy code
-cd your-repo
-Install dependencies:
-
-shell
-Copy code
-npm install
-Usage
-Start the development server:
-
-shell
-Copy code
-npm start
-Open your web browser and navigate to http://localhost:3000.
-
-Connect your Metamask wallet to the Ethereum network of your choice.
-
-Enter the desired token name and symbol in the provided input fields.
-
-Click the "Deploy" button to create your ERC20 token.
-
-Wait for the transaction to be mined and the contract to be deployed.
-
-Access the deployed contract's address and transaction hash in the browser console.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
