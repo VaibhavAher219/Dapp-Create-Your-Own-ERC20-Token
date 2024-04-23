@@ -4,6 +4,8 @@
 
 This project allows users to create their own ERC20 tokens on Sepolia by providing the token name and symbol through a frontend interface.
 
+Live Link : https://createyourtoken.netlify.app/
+
 ## Prerequisites
 
 Before using this project, make sure you have the following:
